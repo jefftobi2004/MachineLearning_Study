@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python caching files
+__pycache__/
+*.pyc
+
+# Local checkpoints
+.ipynb_checkpoints/
+
+# Data & Models
+data/raw/
+data/processed/
+models/
